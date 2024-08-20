@@ -14,17 +14,17 @@ I built this project to learn more about radio waves and their applications. Rad
 
 Below is a list of materials I used to build the ESP32 Internet Radio, along with links to the components for your convenience:
 
-	•	ESP32 Microcontroller: Buy it here
-	•	PAM8403 Amplifier: Buy it here
-	•	VS1053 MP3 Decoder: Buy it here
-	•	2W Micro Speaker: Buy it here
-	•	128x32 OLED Display: Buy it here
-	•	TP4056 Charging Module: Buy it here
-	•	3.7V 1100mAh LiPo Battery: Buy it here
+	•	ESP32 Microcontroller: https://a.co/d/gGbqsbR 
+	•	PAM8403 Amplifier: https://www.amazon.ca/dp/B0CHZ9S5QC?ref=ppx_pop_mob_ap_share 
+	•	VS1053 MP3 Decoder: https://www.amazon.ca/dp/B07XCN3C7B?ref=ppx_pop_mob_ap_share
+	•	2W Micro Speaker: https://www.amazon.ca/dp/B07BFTYY6L?ref=ppx_pop_mob_ap_share
+	•	128x32 OLED Display: https://www.amazon.ca/dp/B07D9H83R4?ref=ppx_pop_mob_ap_share
+	•	TP4056 Charging Module: https://www.amazon.ca/dp/B07XC22ZD8?ref=ppx_pop_mob_ap_share
+	•	3.7V 1100mAh LiPo Battery: https://www.amazon.ca/dp/B08FD39Y5R?ref=ppx_pop_mob_ap_share
 	•	Potentiometer knob, Buttons, and Switch
-	•	Black Cloth (Speaker Grill)
+	•	Black Cloth (For the Speaker Grill)
 	•	Prototype PCB Board
-	•	Wooden Enclosure: Custom-made using a laser cutter (you could also use a 3D printed enclosure, feel free to design one!)
+	•	Wooden Enclosure: Custom-made using a laser cutter (Sorry that I didn't make a 3D printable enclosure)
 
 <h2>How It Works</h2>
 
