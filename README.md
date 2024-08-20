@@ -38,7 +38,7 @@ The ESP32 microcontroller connects to the internet via Wi-Fi. It accesses the st
 	•	Buttons & Switch: Used for navigating between radio stations and turning the device on/off.
 
 <h2>Building the Project<h2>
-<h4 style="color:red">*Refer to the Images folder for easier instructions*</h4>
+<h4><font color="red">*Refer to the Images folder for easier instructions*</font></h4>
 
 <h3>Step 1: Breadboard Testing</h3>
 
