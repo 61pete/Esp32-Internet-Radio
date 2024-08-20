@@ -2,7 +2,7 @@
 
 <h2>Overview</h2>
 
-This project is an ESP32 Internet Radio inspired by the excellent work of educ8s.tv. Unlike traditional radios, which receive radio waves from the air, an internet radio streams radio stations via websites. It connects to the internet through a microcontroller, retrieves data from streaming websites, decodes it into audio signals using an MP3 decoder, amplifies the signals, and then plays them through a speaker.
+This project is an ESP32 Internet Radio inspired by the excellent work of <a href="https://educ8s.tv/esp32-internet-radio/#google_vignette">educ8s.tv.</a> Unlike traditional radios, which receive radio waves from the air, an internet radio streams radio stations via websites. It connects to the internet through a microcontroller, retrieves data from streaming websites, decodes it into audio signals using an MP3 decoder, amplifies the signals, and then plays them through a speaker.
 
 This repository includes the code and instructions for building your own internet radio using an ESP32 microcontroller.
 
@@ -45,7 +45,7 @@ Before you start soldering, it’s important to connect all the components on a 
 <h3>Step 2: Schematic</h3>
 
 Refer to the schematic (provided in the repository) for connecting all the components. Ensure each connection is secure and correct before moving forward. 
-<img src="Esp32 internet Radio schematic.png">
+<img src="images/Esp32 internet Radio schematic.png">
 
 <h3>Step 3: Uploading the Code</h3>
 
