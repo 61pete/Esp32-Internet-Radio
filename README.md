@@ -29,6 +29,7 @@ Below is a list of materials I used to build the ESP32 Internet Radio, along wit
 <h2>How It Works</h2>
 
 The ESP32 microcontroller connects to the internet via Wi-Fi. It accesses the streaming websites that host radio stations, grabs the audio data, and sends it to the VS1053 MP3 decoder to decode the audio signal. The decoded signal is amplified using the PAM8403 amplifier and played through the 2W speaker. The 128x32 OLED screen is used to display the current station information and connection status.
+<img src="./Images/Project_Structure.png">
 
 	•	ESP32: Handles internet connection and data streaming. I chose the Esp32 because it is an affordable microcontroller that is powerful, has wifi and Bluetooth capabilities, and has a large community.
 	•	VS1053: Decodes audio signals.
@@ -37,6 +38,7 @@ The ESP32 microcontroller connects to the internet via Wi-Fi. It accesses the st
 	•	Buttons & Switch: Used for navigating between radio stations and turning the device on/off.
 
 <h2>Building the Project<h2>
+<h4 style="color:red">*Refer to the Images folder for easier instructions*</h4>
 
 <h3>Step 1: Breadboard Testing</h3>
 
