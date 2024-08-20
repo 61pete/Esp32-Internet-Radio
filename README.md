@@ -45,7 +45,7 @@ Before you start soldering, it’s important to connect all the components on a 
 <h3>Step 2: Schematic</h3>
 
 Refer to the schematic (provided in the repository) for connecting all the components. Ensure each connection is secure and correct before moving forward. 
-<img src="Esp32 internet radio schematic">
+<img src="Esp32 internet Radio schematic.png">
 
 <h3>Step 3: Uploading the Code</h3>
 
