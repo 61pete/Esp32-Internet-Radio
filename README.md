@@ -6,7 +6,7 @@ This project is an ESP32 Internet Radio inspired by the excellent work of <a hre
 
 This repository includes the code and instructions for building your own internet radio using an ESP32 microcontroller.
 
-<img src="./Images/RadioFront.jpg"><img src="./Images/RadioOpened.jpg">
+<img src="./Images/RadioFrontSide.jpg"><img src="./Images/RadioOpened.jpg">
 
 <h2>Why I Made This Project</h2>
 
