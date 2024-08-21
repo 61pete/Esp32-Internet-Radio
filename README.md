@@ -94,4 +94,4 @@ Check out the video showcasing how the ESP32 Internet Radio works: <a href="http
 
 <h2>Contact</h2>
 
-If you have any questions or need further clarification, feel free to reach out to me through my <a href="www.youtube.com/@ZETRO_Labs">YouTube Channel - ZETRO Labs.</a>
+If you have any questions or need further clarification, feel free to reach out to me through my <a href="https://www.youtube.com/@ZETRO_Labs">YouTube Channel - ZETRO Labs.</a>
