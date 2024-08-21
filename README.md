@@ -48,32 +48,32 @@ Before you start soldering, it’s important to connect all the components on a 
 
 <h3>Step 2: Schematic</h3>
 
-Refer to the schematic (provided in the repository) for connecting all the components. Ensure each connection is secure and correct before moving forward. 
+Refer to the schematic (provided in the repository) for connecting all the components. Ensure each connection is secure and correct before moving forward. Use shrink wraps so that the connections won't touch each other.
 <img src="./Images/Esp32 internet Radio schematic.png">
 
 <h3>Step 3: Uploading the Code</h3>
 
-Initially, I used the code provided by educ8s.tv, but it didn’t work well for my setup—the audio was jittery. I found another improved version of the code, but it still had issues with the libraries. So, I decided to write my own code, using simpler libraries, and that solved the problem.
+Initially, I used the code provided by educ8s.tv, but it didn’t work as well as it should, the speaker kept on stopping and playing, making it hard to listen to. I found another improved version of the code that used an advanced library called the VS1053 stream master, but I still had issues with the libraries. So, I decided to write my own code, using simpler libraries, and that solved the problem.
 
 You can find the working code in this repository. I hope it will help you with your project!
 
 <h3>Step 4: Soldering</h3>
 
-Once you’ve confirmed everything works on the breadboard, solder the components to the prototype PCB board. Be careful when soldering, as the ESP32 pins are small, and it’s easy to damage the board if you’re not precise. If you’re new to soldering, take extra care not to short any connections.
+Once you’ve confirmed everything works on the breadboard, you can solder all the components together, if you are having trouble positioning the components, you can refer to the images folder in this repository to see where I positioned all the components. Be careful when soldering, as the ESP32 pins are small, and it’s easy to damage the board if you’re not precise. If you’re new to soldering, take extra care not to short any connections.
 
 <h3>Step 5: Enclosure and Final Assembly</h3>
 
-I used a laser cutter to create a wooden enclosure for my internet radio. If you have access to a laser cutter, you can do the same, or alternatively, someone could design a 3D-printed enclosure to make it more accessible to others.
-
+I used a laser cutter to create a wooden enclosure for my internet radio. If you have access to a laser cutter, you can do the same, or alternatively, I would really appreciate it if somebody could design a 3D-printed enclosure to make it more accessible to others.
+	Where to put components that you can't see in the pictures:
 	•	The LiPo battery is placed behind the VS1053 MP3 decoder.
 	•	The TP4056 charging module and the power switch are mounted underneath the ESP32.
-	•	I designed and 3D-printed button caps to give the buttons a cleaner look.
+	•	I also designed and 3D-printed button caps to give the buttons a cleaner look.
 
 <h3>Step 6: Final Testing</h3>
 
-After assembly, test the device to ensure that everything functions as expected. Check that:
-
-	•	The radio streams smoothly without interruptions.
+After assembly, test the device to ensure that everything functions as expected. 
+	Check that:
+ 	•	The radio streams smoothly without interruptions.
 	•	The buttons switch between radio stations properly.
 	•	The battery charges and powers the device correctly.
 
@@ -82,7 +82,7 @@ After assembly, test the device to ensure that everything functions as expected.
 	•	Always test components on a breadboard before soldering.
 	•	Writing your own code can solve compatibility issues with libraries.
 	•	Be careful when soldering small components like the ESP32 pins.
-	•	It’s good to have a proper case for the device, even if it’s wooden. A 3D-printed case would be more accessible for most people.
+	•	It’s good to have a proper case for the device, even if it’s wooden. But a 3D-printed case would be more accessible for most people.
 
 <h2>Future Improvements</h2>
 
@@ -90,8 +90,8 @@ I would love to see someone design a 3D-printed enclosure for this project. A cu
 
 <h2>Video Demonstration</h2>
 
-Check out the video showcasing how the ESP32 Internet Radio works: Watch the video
+Check out the video showcasing how the ESP32 Internet Radio works: <a href="https://youtu.be/lMdWntr4xZQ?si=qNeAsw_hGhNQVQYP">Watch the video</a>
 
 <h2>Contact</h2>
 
-If you have any questions or need further clarification, feel free to reach out to me through my YouTube Channel - ZETRO Labs.
+If you have any questions or need further clarification, feel free to reach out to me through my <a href="www.youtube.com/@ZETRO_Labs">YouTube Channel - ZETRO Labs.</a>
