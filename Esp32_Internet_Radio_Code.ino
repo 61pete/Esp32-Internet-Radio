@@ -15,8 +15,8 @@
 U8G2_SSD1306_128X32_UNIVISION_F_HW_I2C u8g2(U8G2_R0, /* reset=*/ U8X8_PIN_NONE);
 
 // WiFi settings example, substitute your own
-const char *ssid = "ChomeYVR";
-const char *password = "138138138";
+const char *ssid = "Your SSID";
+const char *password = "Your Wifi Password";
 
 // Radio station details
 const char* stationNames[] = {"ERT Kosmos", "FFH Lounge", "FFH Summer"};
